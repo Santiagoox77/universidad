@@ -1,0 +1,28 @@
+
+
+html
+ {color : rgb(0, 0, 0);}
+ body {
+
+    background: linear-gradient(90deg,blue , pink);
+} 
+section
+{
+    width: 400px;
+    height: 600px;
+    background-color: rgb(33, 185, 231);
+    margin-top: 80px;
+    margin-left: 450px;
+    box-shadow: 7px 13px 30px #0f6486 ;
+}
+label{
+    margin-left: 70px;
+    color: black;
+}
+input{
+    margin-left: 40px;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
